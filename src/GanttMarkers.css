@@ -1,0 +1,15 @@
+.wx-default .myMiddleClass {
+  background-color: rgba(232, 49, 37, 0.77);
+}
+
+.wx-material .myMiddleClass {
+  background-color: rgba(255, 84, 84, 0.77);
+}
+
+.wx-default .myEndClass {
+  background-color: rgba(29, 180, 164, 0.77);
+}
+
+.wx-material .myEndClass {
+  background-color: rgba(54, 206, 124, 0.77);
+}
