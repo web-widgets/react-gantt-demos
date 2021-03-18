@@ -63,6 +63,10 @@
 }
 
 .danger {
-  background-color: var(--wx-danger-color);
-  color: var(--wx-inverted-color);
+  color: var(--wx-button-danger-font-color);
+  background-color: var(--wx-button-danger-color);
+}
+
+.danger:hover {
+  background-color: var(--wx-button-danger-color-hover);
 }

@@ -1166,10 +1166,10 @@
   resolved "https://nodeproxy.webix.io/@dhtmlx%2fgantt-data-provider/-/gantt-data-provider-0.1.0.tgz#267d4eca9a8b79056994c2db5bb47c9b59cdfbdd"
   integrity sha512-bEQp9Hsu9Pii6eQ/m6l0QYQFNZvNrW7xbVclbmkymUkILYotceIBLUZSEQ9QypmIjyqx5yyrT3JTh30v2b1dPQ==
 
-"@dhtmlx/trial-react-gantt@^0.2.0":
-  version "0.2.0"
-  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-react-gantt/-/trial-react-gantt-0.2.0.tgz#f812cbdfc6575cf119c0e1e44ce822c200410745"
-  integrity sha512-NVedZZGkKNE9jjEItQE2BMSxaTcAiPnAbe68/z4Oa9ScSjNw5tZX2snlEgibh29D7FpUz10QZRxKOFsjnk7cIA==
+"@dhtmlx/trial-react-gantt@^1.0.1":
+  version "1.0.1"
+  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-react-gantt/-/trial-react-gantt-1.0.1.tgz#f811982dce8c84bb185d49932bfcaa348fdfacb7"
+  integrity sha512-6WB1CCeqofHePaZzDs2KOdyNkJkyGOIWpT92ulSEdkCX49JxYjlOb0w6VlRCt2vI+f4F+96yagu0Ko2RuXeElQ==
 
 "@eslint/eslintrc@^0.3.0":
   version "0.3.0"
