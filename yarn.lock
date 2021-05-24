@@ -1161,15 +1161,15 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
-"@dhtmlx/gantt-data-provider@^0.1.0":
-  version "0.1.0"
-  resolved "https://nodeproxy.webix.io/@dhtmlx%2fgantt-data-provider/-/gantt-data-provider-0.1.0.tgz#267d4eca9a8b79056994c2db5bb47c9b59cdfbdd"
-  integrity sha512-bEQp9Hsu9Pii6eQ/m6l0QYQFNZvNrW7xbVclbmkymUkILYotceIBLUZSEQ9QypmIjyqx5yyrT3JTh30v2b1dPQ==
+"@dhtmlx/gantt-data-provider@^0.2.0":
+  version "0.2.0"
+  resolved "https://nodeproxy.webix.io/@dhtmlx%2fgantt-data-provider/-/gantt-data-provider-0.2.0.tgz#10c89c1b09387282fded78e79aa4972560d62ce0"
+  integrity sha512-/KQXzx+oSVxb97ymQ7T+P5Yznr8EOUXrFZfenOrQdskZLhmDcR28NuDPv1qnULpepN5ifbyUFb2Roh2Ah6B0sA==
 
-"@dhtmlx/trial-react-gantt@^1.0.1":
-  version "1.0.1"
-  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-react-gantt/-/trial-react-gantt-1.0.1.tgz#f811982dce8c84bb185d49932bfcaa348fdfacb7"
-  integrity sha512-6WB1CCeqofHePaZzDs2KOdyNkJkyGOIWpT92ulSEdkCX49JxYjlOb0w6VlRCt2vI+f4F+96yagu0Ko2RuXeElQ==
+"@dhtmlx/trial-react-gantt@1.1.0":
+  version "1.1.0"
+  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-react-gantt/-/trial-react-gantt-1.1.0.tgz#5ed0e03dbe39ac79c7c2d5531074d5d5d63f0e3f"
+  integrity sha512-AQ8vGxN+nsHPAuMg9A9vrblLWeHE14sAgAXCPCU5+NKpnmh5ICugo1jlRCPgDzhA6DcWJV7Fp+0LLEGm7oOG4g==
 
 "@eslint/eslintrc@^0.3.0":
   version "0.3.0"

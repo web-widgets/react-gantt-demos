@@ -23,6 +23,7 @@ import GanttPerformance from "./GanttPerformance";
 import GanttMarkers from "./GanttMarkers";
 import GanttTooltips from "./GanttTooltips";
 import GanttText from "./GanttText";
+import GanttLocale from "./GanttLocale";
 
 import { MaterialTheme, DefaultTheme } from "@dhtmlx/trial-react-gantt";
 
@@ -57,6 +58,7 @@ const demos = [
   ["/markers", "Markers", GanttMarkers],
   ["/tooltips", "Tooltips", GanttTooltips],
   ["/templates", "Custom text", GanttText],
+  ["/locale", "Locales", GanttLocale],
 ];
 
 function showTitle() {
